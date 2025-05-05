@@ -1,0 +1,50 @@
+{
+  "quiz": [
+    {
+      "type": "question",
+      "content": {
+        "question": "Question1 ?",
+        "options": ["Yes","No"],
+        "answer": "Yes"
+      }
+    },
+    {
+      "type": "video",
+      "content": {
+        "url": "https://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4",
+        "thumbnail": "https://www.example.com/thumbnail.jpg"
+      }
+    },
+    {
+      "type": "question",
+      "content": {
+        "question": "Question2 ?",
+        "options": ["Yes","No"],
+        "answer": "Yes"
+      }
+    },
+    {
+      "type": "question",
+      "content": {
+        "question": "Did You Watch",
+        "options": ["No", "Yes"],
+        "answer": "Yes"
+      }
+    },
+    {
+      "type": "video",
+      "content": {
+        "url": "https://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4",
+        "thumbnail": "https://www.example.com/thumbnail.jpg"
+      }
+    },
+    {
+      "type": "question",
+      "content": {
+        "question": "DId You Watch Again?(Final)",
+        "options": ["Yeah", "Absolute,NO"],
+        "answer": "Yeah"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Learning Space Foundation",
+    "slug": "Learning-space-foundation",
+    "description": "This is an Application for the Learning Space Foundation NGO",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./App/assets/icons.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./App/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./App/assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.neogonsalves.firstapp"
+    },
+    "web": {
+      "favicon": "./App/assets/icon.png"
+    },
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./App/assets/fonts/Playwrite.ttf"
+          ]
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "8ae0714a-e306-4b63-9e74-bbf912a59b43"
+      }
+    }
+  }
+}

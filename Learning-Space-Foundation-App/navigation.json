@@ -1,0 +1,39 @@
+{
+    "content": [
+      {
+        "id": "1",
+        "type": "video",
+        "title": "Lesson 1",
+        "url": "https://drive.google.com/uc?id=1DqYfYKfvWVG09LP3ekoWYZaUX8qY7ipk&export=download",
+        "questions": [
+          {
+            "id": "q1",
+            "question": "Should You trust strangers for candies and sweets",
+            "options": ["Yes Strangers can offer free treats", "No it's a very unsafe option for a kid to  take candies form a stranger", "Sometimes depending on the situation"],
+            "correctAnswer": "No it's a very unsafe option for a kid to  take candies form a stranger"
+          },
+          {
+            "id": "q2",
+            "question": "What Should be Your Responce when a stranger offers you Treats ",
+            "options": ["Sorry but My parents have instructed me to not take candies from strangers", "I will gladly like some treats ", "Ignore Him completly"],
+            "correctAnswer": "Sorry but My parents have instructed me to not take candies from strangers"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "type": "video",
+        "title": "Lesson 2 ",
+        "url": "https://drive.google.com/uc?id=1DqYfYKfvWVG09LP3ekoWYZaUX8qY7ipk&export=download",
+        "questions": [
+          {
+            "id": "q3",
+            "question": "What should you do when the stranger insists you to take them ??",
+            "options": ["Ask for Help from an adult ", "ask him to leave you alone ", "Accept them "],
+            "correctAnswer": "A building block of the UI"
+          }
+        ]
+      }
+    ]
+  }
+  
